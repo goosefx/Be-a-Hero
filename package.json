@@ -1,0 +1,9 @@
+{
+    "name": "mydoc"
+  , "version": "1.0.0"
+  , "private": true
+  , "dependencies": {
+      "express": "2.5.8",
+      "swig" : "0.10.0"
+  }
+}
