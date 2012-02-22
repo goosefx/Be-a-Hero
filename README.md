@@ -1,4 +1,4 @@
-# 'Become a Hero' - Template
+# 'Be a Hero' - Template
 
 This template is build on the following frameworks:
 
@@ -24,7 +24,7 @@ Start the server:
 
 (The MIT License)
 
-Copyright (c) 2009-2011 Marcus Wilhelm &lt;mwilhelm@me.com&gt;
+Copyright (c) 2012 Marcus Wilhelm &lt;mwilhelm@me.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
